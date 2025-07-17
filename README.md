@@ -2,9 +2,9 @@
 
 <p align="left"> <a href="https://twitter.com/ordinalos" target="blank"><img src="https://img.shields.io/twitter/follow/ordinalos?logo=twitter&style=for-the-badge" alt="ordinalos" /></a> </p>
 
-## 🚀 NEW! Projects
-- **[HARD-K](https://x.com/hardk_en)**: A web platform for [describe purpose].
-- **[crash0S](https://x.com/crash0S)**: A [describe project] built with [technologies].
+## 🚀 NEW!
+- **[HARD-K](https://x.com/hardk_en)**: A.I Research Mag.
+- **[crash0S](https://x.com/crash0S)**: semi-neural OS for web.
 
 ## 📫 Get in Touch
 - Twitter: [@ordinalos](https://x.com/ordinalos)
