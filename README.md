@@ -2,13 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/ordinalos" target="blank"><img src="https://img.shields.io/twitter/follow/ordinalos?logo=twitter&style=for-the-badge" alt="ordinalos" /></a> </p>
 
-- 🔭 I’m currently working on [dotlambo](https://x.com/dotlambo) | [$bunny](https://x.com/hopper_btc)
-
-- 👯 I’m looking to collaborate on anything ordinals :)
-
-- 🌱 I’m currently learning **UTXO**
-
-- 💬 Ask me about **front-end development**
+- 🔭 I’m currently working on [HARD-K](https://x.com/hardk_en) | [crash0S](https://x.com/crash0S)
 
 - 📫 How to reach me **https://x.com/ordinalos**
 <br>
